@@ -32,7 +32,6 @@ After cleaning and merging the datasets, I created both a simple linear regessio
 In both of these models, the vegetation levels had significantly less impact on the model than other features (altitude and year), but not a completely insignificant impact!
 
 ## Main Tools Used
-### Data Pipelines
  - Xarray
  - Dask
  - NetCDF
